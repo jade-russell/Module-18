@@ -11,3 +11,5 @@ The most popular months to travel via bikes in 2024 were between October & Decem
 The top start stations were in the Hoboken terminal and Grove St PATH witch also mirror the most popular end stations. The least popular stations seem to be in the 1 Ave and 3 Ave area. 
 
 The Average Trip Distance shows a right skewed histogram shape. Peaking at .5 miles distance with a max of 3.4 miles 
+
+Resources used: QuickDBD, Google AI and CHATGPT for format questions, Examples from class (UT Bootcamp), Stack Overflow and help from one-on-one tutoring (Lukas with troubleshooting)
