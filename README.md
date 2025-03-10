@@ -2,7 +2,7 @@
 
 For this assignment we were asked to use any of the Citi Bike Data we wished and create a visualtion through Tableau.
 
-https://public.tableau.com/views/Mod18_17404623561170/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/Mod18_17404623561170/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/jade.russell7790/viz/CitiBike2024Analysis_17416492985260/Map)
 
 I chose to download all the data from the year 2024. This brought challenges, as it was just way too much data. 
 
